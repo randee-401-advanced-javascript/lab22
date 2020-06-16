@@ -10,6 +10,12 @@
 - [ci/cd](http://xyz.com) (GitHub Actions)
 - [front-end application](http://xyz.com) (when applicable)
 
+- [Netlify Deployment](https://cranky-mclean-96bfee.netlify.app)
+
+- [AWSs3](http://401jslab22.s3-website-us-west-2.amazonaws.com/)
+
+- [AWSAmplify](https://attempt1.d3dqz7v4pqh95q.amplifyapp.com/)
+
 ### Setup
 
 
