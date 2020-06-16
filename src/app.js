@@ -4,7 +4,6 @@ import Header from './components/Header.js';
 import Footer from './components/Footer.js';
 import Counter from './components/Counter.js';
 
-import '../src/styles/reset.sass'
 import '../src/styles/styles.sass'
 
 class App extends React.Component {
